@@ -22,7 +22,7 @@ This Python script allows you to interact with OpenAI's ChatGPT using different 
 - Execute the Python script using the following command:
 
   ```
-  python GPT_#_models.py.py
+  python GPT_#_models.py
   ```
 
 3. Select a text model:
